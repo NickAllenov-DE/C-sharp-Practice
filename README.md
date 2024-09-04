@@ -36,3 +36,8 @@ If you have additional exercises or improvements, feel free to fork this reposit
 ## License
 This project is licensed under the MIT License. Feel free to use the code for learning and educational purposes.
 
+## Author
+Nikolai Allenov  
+Email: AllenovNS@gmail.com  
+Telegram: https://t.me/NickAllenov
+
