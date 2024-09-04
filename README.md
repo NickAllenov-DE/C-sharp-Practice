@@ -39,5 +39,5 @@ This project is licensed under the MIT License. Feel free to use the code for le
 ## Author
 Nikolai Allenov  
 Email: AllenovNS@gmail.com  
-Telegram: https://t.me/NickAllenov
-
+Telegram: https://t.me/NickAllenov  
+Linkedin: www.linkedin.com/in/nickallenov-de
