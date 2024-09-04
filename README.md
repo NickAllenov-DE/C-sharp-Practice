@@ -26,9 +26,10 @@ Open any of the .cs files in your preferred C# development environment (such as 
 Examples
 Here are a few examples of the exercises available:
 
-Factorial Calculation: Calculates the factorial of a given number using both iterative and recursive methods.
-Array Sorting: Sorts an array using different sorting algorithms.
-Matrix Manipulation: Various exercises for creating, filling, and modifying matrices.
+Factorial Calculation: Calculates the factorial of a given number using both iterative and recursive methods.  
+Array Sorting: Sorts an array using different sorting algorithms.  
+Matrix Manipulation: Various exercises for creating, filling, and modifying matrices.  
+
 Contributing
 If you have additional exercises or improvements, feel free to fork this repository and submit a pull request. Contributions are welcome!
 
