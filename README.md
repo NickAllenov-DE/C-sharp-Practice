@@ -23,16 +23,16 @@ To get started, clone the repository to your local machine:
 ```
 Open any of the .cs files in your preferred C# development environment (such as Visual Studio or Visual Studio Code) and run the program.
 
-Examples
+## Examples  
 Here are a few examples of the exercises available:
 
 Factorial Calculation: Calculates the factorial of a given number using both iterative and recursive methods.  
 Array Sorting: Sorts an array using different sorting algorithms.  
 Matrix Manipulation: Various exercises for creating, filling, and modifying matrices.  
 
-Contributing
+## Contributing
 If you have additional exercises or improvements, feel free to fork this repository and submit a pull request. Contributions are welcome!
 
-License
+## License
 This project is licensed under the MIT License. Feel free to use the code for learning and educational purposes.
 
